@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Others on Gallery</title>
-    <link>/categories/others/</link>
+    <link>https://zhongma95.github.io/zhongsgallery/categories/others/</link>
     <description>Recent content in Others on Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>zhongma95@icloud.com (Zhong Ma)</managingEditor>
     <webMaster>zhongma95@icloud.com (Zhong Ma)</webMaster>
-    <copyright>© Zhong Ma</copyright><atom:link href="/categories/others/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Zhong Ma</copyright><atom:link href="https://zhongma95.github.io/zhongsgallery/categories/others/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Others</title>
-      <link>/others/</link>
+      <link>https://zhongma95.github.io/zhongsgallery/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>zhongma95@icloud.com (Zhong Ma)</author>
-      <guid>/others/</guid><media:content url="/others/231202_162627_hu7613667275722114813.jpeg" type="image/jpeg"/>
+      <guid>https://zhongma95.github.io/zhongsgallery/others/</guid><media:content url="https://zhongma95.github.io/zhongsgallery/others/231202_162627_hu7613667275722114813.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;/others/231202_162627_hu7613667275722114813.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://zhongma95.github.io/zhongsgallery/others/231202_162627_hu7613667275722114813.jpeg&quot; /&gt;
           &lt;p&gt;Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.&lt;/p&gt;
         </description></item>
   </channel>

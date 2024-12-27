@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/city/</loc>
+    <loc>https://zhongma95.github.io/zhongsgallery/city/</loc>
   </url><url>
-    <loc>/nature/</loc>
+    <loc>https://zhongma95.github.io/zhongsgallery/nature/</loc>
   </url><url>
-    <loc>/others/</loc>
+    <loc>https://zhongma95.github.io/zhongsgallery/others/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://zhongma95.github.io/zhongsgallery/</loc>
     <lastmod>2023-01-12T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://zhongma95.github.io/zhongsgallery/about/</loc>
   </url><url>
-    <loc>/categories/city/</loc>
+    <loc>https://zhongma95.github.io/zhongsgallery/categories/city/</loc>
   </url><url>
-    <loc>/categories/landscape/</loc>
+    <loc>https://zhongma95.github.io/zhongsgallery/categories/landscape/</loc>
   </url><url>
-    <loc>/categories/nature/</loc>
+    <loc>https://zhongma95.github.io/zhongsgallery/categories/nature/</loc>
   </url><url>
-    <loc>/categories/others/</loc>
+    <loc>https://zhongma95.github.io/zhongsgallery/categories/others/</loc>
   </url>
 </urlset>
